@@ -9,7 +9,7 @@ export default {
   name: 'Index',
   data () {
     return {
-      msg: '这是模版'
+      msg: '使用pug 跟 stylus'
     }
   }
 }
