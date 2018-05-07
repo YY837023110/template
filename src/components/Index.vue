@@ -1,6 +1,6 @@
 <template lang="pug">
   .index
-    h1 我是首页
+    h1 {{msg}}
 </template>
 
 
